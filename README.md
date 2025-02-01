@@ -1,16 +1,16 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey this is Mazen Elsayed👋</h1>
 
 ###
 
-<p align="left">My name is Mazen and I'm a Computer engineering student, from Egypt</p>
+<p align="left">I'm a Computer engineering student from Egypt</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Find Me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning AI and Machine Learning<br>🎯 Goals:</p>
+<p align="left">LinkedIn : https://www.linkedin.com/in/mazen-elsayed-a26b49300/<br>Email: mazenelsayed9304@gmail.com<br></p>
 
 ###
 
